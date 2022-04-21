@@ -1,11 +1,5 @@
 public class BinaryTree <E extends Comparable> implements BinaryTreeInterface <E>
 {
-    /*
-    Sam Lu
-    Mr. Tully
-    Period 4
-    */
-
     private TreeNode <E> root;
 
     public BinaryTree()
