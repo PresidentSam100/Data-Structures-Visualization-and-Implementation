@@ -2,12 +2,6 @@ import java.util.ArrayList;
 
 public class PriorityQueue <E extends Comparable> implements PriorityQueueInterface <E>
 {
-    /*
-    Sam Lu
-    Mr. Tully
-    Period 4
-    */
-
     private ArrayList <E> priorityQueue;
 
     public PriorityQueue()
