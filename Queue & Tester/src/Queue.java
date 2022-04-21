@@ -2,12 +2,6 @@ import java.util.ArrayList;
 
 public class Queue <E> implements QueueInterface<E>
 {
-    /*
-    Sam Lu
-    Mr. Tully
-    Period 4
-    */
-
     private ArrayList <E> queue;
 
     public Queue()
