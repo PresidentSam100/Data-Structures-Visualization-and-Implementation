@@ -1,11 +1,5 @@
 public class DoublyCircularLinkedList <E> implements DoublyCircularLinkedListInt <E>
 {
-    /*
-    Sam Lu
-    Mr. Tully
-    Period 4
-    */
-
     private DLLNode <E> first;
     private DLLNode <E> last;
 
