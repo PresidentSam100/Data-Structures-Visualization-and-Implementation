@@ -2,12 +2,6 @@ import java.util.ArrayList;
 
 public class Stack<E> implements StackInterface<E>
 {
-    /*
-    Sam Lu
-    Mr. Tully
-    Period 4
-    */
-
     private ArrayList <E> stack;
 
     public Stack()
