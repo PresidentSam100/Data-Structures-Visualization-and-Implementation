@@ -1,11 +1,5 @@
 public class DLLNode <E>
 {
-    /*
-    Sam Lu
-    Mr. Tully
-    Period 4
-    */
-
     private E data;
     private DLLNode <E> previous;
     private DLLNode <E> next;
