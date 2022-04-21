@@ -1,11 +1,5 @@
 public interface StackInterface<E>
 {
-    /*
-    Sam Lu
-    Mr. Tully
-    Period 4
-    */
-
     public String toString();
 
     public int size();
