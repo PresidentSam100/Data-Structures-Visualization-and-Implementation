@@ -1,11 +1,5 @@
 public class TreeNode <E extends Comparable>
 {
-    /*
-    Sam Lu
-    Mr. Tully
-    Period 4
-    */
-
     private E data;
     private TreeNode <E> left;
     private TreeNode <E> right;
