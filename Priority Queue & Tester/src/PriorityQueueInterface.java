@@ -1,11 +1,5 @@
 public interface PriorityQueueInterface<E extends Comparable>
 {
-    /*
-    Sam Lu
-    Mr. Tully
-    Period 4
-    */
-
     public boolean add(E o);
 
     public boolean offer(E o);
