@@ -2,12 +2,6 @@ import java.util.*;
 
 public class Heap <E extends Comparable> implements HeapInterface <E>
 {
-    /*
-    Sam Lu
-    Mr. Tully
-    Period 4
-    */
-
     private ArrayList <E> heap;
 
     public Heap()
