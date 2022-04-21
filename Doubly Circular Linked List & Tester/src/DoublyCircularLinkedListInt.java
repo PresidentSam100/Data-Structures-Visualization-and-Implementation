@@ -1,11 +1,5 @@
 public interface DoublyCircularLinkedListInt<E>
 {
-    /*
-    Sam Lu
-    Mr. Tully
-    Period 4
-    */
-
     public DLLNode<E> getFirstNode();
 
     public DLLNode<E> getLastNode();
