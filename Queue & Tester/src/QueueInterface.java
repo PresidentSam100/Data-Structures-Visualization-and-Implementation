@@ -1,11 +1,5 @@
 public interface QueueInterface<E>
 {
-    /*
-    Sam Lu
-    Mr. Tully
-    Period 4
-    */
-
     public boolean offer(E o);
 
     public boolean add(E o);
