@@ -1,11 +1,5 @@
 public interface BinaryTreeInterface <E extends Comparable>
 {
-    /*
-    Sam Lu
-    Mr. Tully
-    Period 4
-    */
-
     public String preOrder();
 
     public String inOrder();
