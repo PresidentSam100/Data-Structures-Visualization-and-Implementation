@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 public class PriorityQueue <E extends Comparable> implements PriorityQueueInterface <E>
-{
+{ 
     private ArrayList <E> priorityQueue;
 
     public PriorityQueue()
