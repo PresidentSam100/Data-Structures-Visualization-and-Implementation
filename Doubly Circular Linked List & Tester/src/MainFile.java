@@ -2,12 +2,6 @@ import java.util.*;
 
 public class MainFile
 {
-    /*
-    Sam Lu
-    Mr. Tully
-    Period 4
-    */
-
     public static void main(String [] args)
     {
         Scanner keyboard = new Scanner(System.in);
